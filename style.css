@@ -1,0 +1,40 @@
+div {
+  text-align: center;
+}
+#top {
+    text-align: center;
+    font-size: 120px;
+    font-family: "Jersey 10", sans-serif;
+    }
+body {
+     text-align: center;
+     background-color: rgb(238, 96, 196);
+     font-size: 36px;
+      }
+p { 
+     text-align: center;
+     font-size: 22px;
+     font-weight: 50;
+     line-height: 35px;
+     font-family: "Gruppo", sans-serif;
+  }
+h2 { 
+    text-align: center;
+    color:azure
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 44px;
+  }
+li { 
+    text-align: center;
+    font-size: 28px;
+    font-family: "Gruppo", sans-serif;
+}
+a { 
+    text-align: center;
+    color:azure
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 44px;
+    font-family: "Jersey 10", sans-serif;
+  }
